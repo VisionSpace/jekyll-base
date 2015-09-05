@@ -1,6 +1,6 @@
 # Site settings
 title: VisionSpace
-email: your-email@domain.com
+email: info@visionspace.net
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to VisionSpace! (edit this in _config.yml) Let's see what we can do?
 baseurl: "" # the subpath of your site, e.g. /blog/
