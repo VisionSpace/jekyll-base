@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+VisionSpace is VisionSpace.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Customizing and basic usage at: [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Source code at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new) and
+
+at: [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
